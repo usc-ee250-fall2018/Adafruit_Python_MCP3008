@@ -12,7 +12,7 @@ To install the library from source (recommended) run the following commands on a
     cd Adafruit_Python_MCP3008
     sudo python setup.py install
 
-Alternatively you can install from pip with:
+Alternatively you can install from pip with (EE250 students, use `pip3`):
 
     sudo pip install adafruit-mcp3008
 
